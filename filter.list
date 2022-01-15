@@ -34,7 +34,7 @@ https://iplists.firehol.org/files/greensnow.netset
 # firehol_level3
 https://iplists.firehol.org/files/bruteforceblocker.netset
 https://iplists.firehol.org/files/ciarmy.netset
-https://iplists.firehol.org/files/dshield_30d.netset
+# https://iplists.firehol.org/files/dshield_30d.netset  # suspect RDP issue?
 https://iplists.firehol.org/files/dshield_top_1000.netset
 https://iplists.firehol.org/files/malc0de.netset
 https://iplists.firehol.org/files/maxmind_proxy_fraud.netset
