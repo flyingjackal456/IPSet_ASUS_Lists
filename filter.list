@@ -19,7 +19,7 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 
 # firehol_level1
 https://iplists.firehol.org/files/bambenek_c2.netset
-https://iplists.firehol.org/files/dshield.netset
+# https://iplists.firehol.org/files/dshield.netset  # suspect RDP issue?
 https://iplists.firehol.org/files/feodo.netset
 https://iplists.firehol.org/files/fullbogons.netset
 https://iplists.firehol.org/files/sslbl.netset
