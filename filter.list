@@ -9,9 +9,8 @@ https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset	
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_level4.netset
-https://iplists.firehol.org/files/firehol_webserver.netset
+https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/gpf_comics.ipset
-https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://iplists.firehol.org/files/nixspam.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
@@ -20,7 +19,6 @@ https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://iplists.firehol.org/files/yoyo_adservers.ipset
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
 https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/country_block_list.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
