@@ -1,15 +1,7 @@
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
-https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
-https://iplists.firehol.org/files/firehol_abusers_1d.netset
-https://iplists.firehol.org/files/firehol_abusers_30d.netset
-https://iplists.firehol.org/files/firehol_level1.netset
-https://iplists.firehol.org/files/firehol_level2.netset	
-https://iplists.firehol.org/files/firehol_level3.netset
-https://iplists.firehol.org/files/firehol_level4.netset
-https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/gpf_comics.ipset
 https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://iplists.firehol.org/files/nixspam.ipset
@@ -24,3 +16,73 @@ https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
+#
+# firehol_level1
+https://iplists.firehol.org/files/bambenek_c2.netset
+https://iplists.firehol.org/files/dshield.netset
+https://iplists.firehol.org/files/feodo.netset
+https://iplists.firehol.org/files/fullbogons.netset
+https://iplists.firehol.org/files/sslbl.netset
+https://iplists.firehol.org/files/ransomware_rw.netset
+https://iplists.firehol.org/files/.netset
+#
+# firehol_level2
+https://iplists.firehol.org/files/blocklist_de.netset
+https://iplists.firehol.org/files/dshield_1d.netset
+https://iplists.firehol.org/files/greensnow.netset
+#
+# firehol_level3
+https://iplists.firehol.org/files/bruteforceblocker.netset
+https://iplists.firehol.org/files/ciarmy.netset
+https://iplists.firehol.org/files/dshield_30d.netset
+https://iplists.firehol.org/files/dshield_top_1000.netset
+https://iplists.firehol.org/files/malc0de.netset
+https://iplists.firehol.org/files/maxmind_proxy_fraud.netset
+https://iplists.firehol.org/files/myip.netset
+https://iplists.firehol.org/files/shunlist.netset
+https://iplists.firehol.org/files/snort_ipfilter.netset
+https://iplists.firehol.org/files/sslbl_aggressive.netset
+https://iplists.firehol.org/files/talosintel_ipfilter.netset
+https://iplists.firehol.org/files/vxvault.netset
+#
+# firehol_level4
+https://iplists.firehol.org/files/blocklist_net_ua.netset
+https://iplists.firehol.org/files/botscout_30d.netset
+https://iplists.firehol.org/files/cruzit_web_attacks.netset
+https://iplists.firehol.org/files/cybercrime.netset
+https://iplists.firehol.org/files/haley_ssh.netset
+https://iplists.firehol.org/files/iblocklist_hijacked.netset
+https://iplists.firehol.org/files/iblocklist_spyware.netset
+https://iplists.firehol.org/files/iblocklist_webexploit.netset
+https://iplists.firehol.org/files/ipblacklistcloud_top.netset
+https://iplists.firehol.org/files/iw_wormlist.netset
+https://iplists.firehol.org/files/malwaredomainlist.netset
+#
+# firehol_webclient
+https://iplists.firehol.org/files/ransomware_online.netset
+https://iplists.firehol.org/files/dyndns_ponmocup.netset
+#
+# et_block
+https://iplists.firehol.org/files/spamhaus.netset
+https://iplists.firehol.org/files/DROP.netset
+https://iplists.firehol.org/files/abuse.ch.netset
+#
+# fireHOL_abusers_30D
+https://iplists.firehol.org/files/cleantalk_new_30d.netset
+https://iplists.firehol.org/files/cleantalk_updated_30d.netset
+https://iplists.firehol.org/files/php_commenters_30d.netset
+https://iplists.firehol.org/files/php_dictionary_30d.netset
+https://iplists.firehol.org/files/php_harvesters_30d.netset
+https://iplists.firehol.org/files/php_spammers_30d.netset
+https://iplists.firehol.org/files/stopforumspam.netset
+https://iplists.firehol.org/files/sblam.netset
+#
+# firehol_abusers_1d
+https://iplists.firehol.org/files/botscout_1d.netset
+https://iplists.firehol.org/files/cleantalk_new_1d.netset
+https://iplists.firehol.org/files/cleantalk_updated_1d.netset
+https://iplists.firehol.org/files/php_commenters_1d.netset
+https://iplists.firehol.org/files/php_dictionary_1d.netset
+https://iplists.firehol.org/files/php_harvesters_1d.netset
+https://iplists.firehol.org/files/php_spammers_1d.netset
+https://iplists.firehol.org/files/stopforumspam_1d.netset
