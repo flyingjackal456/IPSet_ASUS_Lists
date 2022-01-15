@@ -12,7 +12,7 @@ https://iplists.firehol.org/files/urlvir.ipset
 # https://iplists.firehol.org/files/voipbl.netset  # suspect RDP issue
 # https://iplists.firehol.org/files/yoyo_adservers.ipset  # ads
 # https://iplists.firehol.org/files/blocklist_net_ua.ipset  # suspect RDP issue
-# https://iplists.firehol.org/files/coinbl_hosts_browser.ipset  # block google stuff
+# https://iplists.firehol.org/files/coinbl_hosts_browser.ipset  # block google
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 
