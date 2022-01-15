@@ -19,7 +19,6 @@ https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://iplists.firehol.org/files/yoyo_adservers.ipset
-https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/country_block_list.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
