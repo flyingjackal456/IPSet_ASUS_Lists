@@ -9,17 +9,16 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/urlvir.ipset
-# https://iplists.firehol.org/files/voipbl.netset  # suspect RDP issue?
+# https://iplists.firehol.org/files/voipbl.netset  # suspect RDP issue
 # https://iplists.firehol.org/files/yoyo_adservers.ipset  # ads
-# https://iplists.firehol.org/files/blocklist_net_ua.ipset  # suspect RDP issue?
+# https://iplists.firehol.org/files/blocklist_net_ua.ipset  # suspect RDP issue
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
-# https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 
 # firehol_level1
 https://iplists.firehol.org/files/bambenek_c2.netset
-# https://iplists.firehol.org/files/dshield.netset  # suspect RDP issue?
+# https://iplists.firehol.org/files/dshield.netset  # suspect RDP issue
 https://iplists.firehol.org/files/feodo.netset
 https://iplists.firehol.org/files/fullbogons.netset
 https://iplists.firehol.org/files/sslbl.netset
@@ -28,13 +27,13 @@ https://iplists.firehol.org/files/.netset
 
 # firehol_level2
 https://iplists.firehol.org/files/blocklist_de.netset
-# https://iplists.firehol.org/files/dshield_1d.netset  # suspect RDP issue?
+# https://iplists.firehol.org/files/dshield_1d.netset  # suspect RDP issue
 https://iplists.firehol.org/files/greensnow.netset
 
 # firehol_level3
 https://iplists.firehol.org/files/bruteforceblocker.netset
 https://iplists.firehol.org/files/ciarmy.netset
-# https://iplists.firehol.org/files/dshield_30d.netset  # suspect RDP issue?
+# https://iplists.firehol.org/files/dshield_30d.netset  # suspect RDP issue
 https://iplists.firehol.org/files/dshield_top_1000.netset
 https://iplists.firehol.org/files/malc0de.netset
 https://iplists.firehol.org/files/maxmind_proxy_fraud.netset
